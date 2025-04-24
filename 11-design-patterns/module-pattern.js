@@ -1,0 +1,1 @@
+﻿/// module-pattern.js
